@@ -1,5 +1,7 @@
 # Weather Prediction API
 
+Simple prediction project for studies, hopefully i will pass :D
+
 This project provides a Flask-based API for predicting rain based on historical weather data using a Random Forest classifier. It includes scripts for training the model and exposing predictions via an API endpoint.
 
 ## Installation
