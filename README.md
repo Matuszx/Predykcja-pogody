@@ -17,8 +17,8 @@ Install the required Python packages using `pip`. It's recommended to do this in
 
 ```bash
 # Clone the repository
-git clone <repository_url>
-cd weather-prediction-api
+git clone https://github.com/Matuszx/Predykcja-pogody.git
+cd Predykcja-pogody
 
 # Create and activate a virtual environment (optional but recommended)
 python -m venv venv
